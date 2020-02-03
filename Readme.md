@@ -41,4 +41,4 @@ In simple language the code flow in following way:
 
 	1. Navigate to the folder location on your system and open it
 	2. Open the folder target >> site >> serenity
-	3. In the serenity folder look for "index.html" file and open it with any browse
+	3. In the serenity folder look for "index.html" file and open it with any browser
